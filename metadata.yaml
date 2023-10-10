@@ -11,12 +11,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Victorien_Sardou
     - https://fr.wikipedia.org/wiki/Victorien_Sardou
+covers:
+- cover_type: archival
+  image_path: 71679-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbey, Frédéric
     gutenberg_agent_id: '56328'
     url: http://www.gutenberg.org/2009/agents/56328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71679#A-friend-of-Marie-Antoinette-Lady-Atkyns
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71679'
